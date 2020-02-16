@@ -21,7 +21,7 @@ Listes des repos dispo - MAJ 2020-02-16
 - **multiprint** : projet douchette
 - **MVC_udemy** : Suivi video UDEMY sur PHP MVC
 - **MyCookbook** : Recipes in python, shell, batch
-- **MyCookbook_Reloaded** : Recueil de bidouilles et de bouts de code qui me servent régulièrement. (Shell/Bash, Python, etc.)
+- **MyCookbook_Reloaded** : Recueil de bidouilles et de bouts de code qui me servent régulièrement.
 - **myebooks** : API myebook PHP
 - **Nutridata** : Données de nutritition
 - **pure-bash-bible** : Clone d'un repo existant - Bible de solutions ecrites en pur bash
