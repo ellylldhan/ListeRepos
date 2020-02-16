@@ -1,2 +1,33 @@
 # ListeRepos
 Listes des repos dispo - MAJ 2020-02-16
+
+- **css**
+- **douchette-php** : Douchette php backup
+- **douchette_en_couches** : Project Douchette en mode Dev en couches (BLL, DAO etc)
+- **douchette_udemy** : Projet douchette mode Udemy (MVC)
+- **ellylldhan.github.io** : Web Server
+- **ENI_2019_2021** : Repo pour tous les travaux re: Alternance ENI 2019-2021
+- **ENI_Java** : ENI CDA Alt - Java Semaine 1
+- **ENI_SQL_SERVER** : Cours ENI SQL Server
+- **etiqchef** : Multi etiquettes
+- **etiqchef_v2** : Version 2020-02 : optimisation des couches
+- **FSP** : Food Shuffle, premier projet Java visant à générer des idées de menus. -BROKEN-
+- **java04_GestionParking** : Cours ENI 2020, module n° 4 : Java SE
+- **JavaSQLite** : Manuel de connection à une base SQLite en Java
+- **Labo** : Labo perso pour up des trucs un peu cracra sans peur du ridicule...
+- **MesOutils** : Recueil de bidouilles utiles
+- **Moutou_Java** : Projet "Moutou" version Java
+- **Moutou_Python** : Projet "Moutou" version Python
+- **multiprint** : projet douchette
+- **MVC_udemy** : Suivi video UDEMY sur PHP MVC
+- **MyCookbook** : Recipes in python, shell, batch
+- **MyCookbook_Reloaded** : Recueil de bidouilles et de bouts de code qui me servent régulièrement. (Shell/Bash, Python, etc.)
+- **myebooks** : API myebook PHP
+- **Nutridata** : Données de nutritition
+- **pure-bash-bible** : Clone d'un repo existant - Bible de solutions ecrites en pur bash
+- **SelfSignal** : Code sources du projet Douchette
+- **SLF_Deviseur** : Deviseur Technique
+- **udemy_blog** : Exemple Udemy pour illustrer MVC en PHP
+- **youtube-dl** : Script
+- **ZPLConverter** : Convertisseur image > ZPL
+- **ZPLPrinterHelper** : Lancer une impression d'image sur une imprimante ZPL
