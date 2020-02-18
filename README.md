@@ -6,8 +6,6 @@ Listes des repos dispo - MAJ 2020-02-16
 - [**douchette_udemy**](https://github.com/Ellylldhan/douchette_udemy.git) : Projet douchette mode Udemy (MVC)
 - [**ellylldhan.github.io**](https://github.com/Ellylldhan/ellylldhan.github.io.git) : Web Server
 - [**ENI_2019_2021**](https://github.com/Ellylldhan/ENI_2019_2021.git) : Repo pour tous les travaux re: Alternance ENI 2019-2021
-- [**ENI_Java**](https://github.com/Ellylldhan/ENI_Java.git) : ENI CDA Alt - Java Semaine 1
-- [**ENI_SQL_SERVER**](https://github.com/Ellylldhan/ENI_SQL_SERVER.git) : Cours ENI SQL Server
 - [**etiqchef**](https://github.com/Ellylldhan/etiqchef.git) : Multi etiquettes
 - [**etiqchef_v2**](https://github.com/Ellylldhan/etiqchef_v2.git) : Version 2020-02 : optimisation des couches
 - [**FSP**](https://github.com/Ellylldhan/FSP.git) : Food Shuffle, premier projet Java visant à générer des idées de menus. -BROKEN-
