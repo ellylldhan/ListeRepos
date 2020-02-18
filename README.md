@@ -2,7 +2,6 @@
 Listes des repos dispo - MAJ 2020-02-16
 
 - [**css**](https://github.com/Ellylldhan/css.git) : Feuilles CSS thématiques pour mise en page dans Joplin
-- [**douchette-php**](https://github.com/Ellylldhan/douchette-php.git) : Douchette php backup
 - [**douchette_en_couches**](https://github.com/Ellylldhan/douchette_en_couches.git) : Project Douchette en mode Dev en couches (BLL, DAO etc)
 - [**douchette_udemy**](https://github.com/Ellylldhan/douchette_udemy.git) : Projet douchette mode Udemy (MVC)
 - [**ellylldhan.github.io**](https://github.com/Ellylldhan/ellylldhan.github.io.git) : Web Server
