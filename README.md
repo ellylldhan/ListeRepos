@@ -1,5 +1,5 @@
 # ListeRepos
-Listes des repos dispo - MAJ 2020-02-16
+Listes des repos dispo
 
 - [**css**](https://github.com/Ellylldhan/css.git) : Feuilles CSS thématiques pour mise en page dans Joplin
 - [**douchette_en_couches**](https://github.com/Ellylldhan/douchette_en_couches.git) : Project Douchette en mode Dev en couches (BLL, DAO etc)
@@ -8,7 +8,8 @@ Listes des repos dispo - MAJ 2020-02-16
 - [**ENI_2019_2021**](https://github.com/Ellylldhan/ENI_2019_2021.git) : Repo pour tous les travaux re: Alternance ENI 2019-2021
 - [**etiqchef**](https://github.com/Ellylldhan/etiqchef.git) : Multi etiquettes
 - [**etiqchef_v2**](https://github.com/Ellylldhan/etiqchef_v2.git) : Version 2020-02 : optimisation des couches
-- [**FSP**](https://github.com/Ellylldhan/FSP.git) : Food Shuffle, premier projet Java visant à générer des idées de menus. -BROKEN-
+- [**FSP**](https://github.com/Ellylldhan/FSP.git) : Food Shuffle (Java), générateur d'idées de menus. **-EN PAUSE-**
+- [**FSP_Lite**](https://github.com/Ellylldhan/FSP_Lite.git) : Food Shuffle (Java) utilisant SQLite plutôt que MySQL. **-EN PAUSE-**
 - [**java04_GestionParking**](https://github.com/Ellylldhan/java04_GestionParking.git) : Cours ENI 2020, module n° 4 : Java SE
 - [**JavaSQLite**](https://github.com/Ellylldhan/JavaSQLite.git) : Manuel de connection à une base SQLite en Java
 - [**Labo**](https://github.com/Ellylldhan/Labo.git) : Labo perso pour up des trucs un peu cracra sans peur du ridicule...
