@@ -27,8 +27,8 @@ Listes des repos dispo
 - [**Nutridata**](https://github.com/Ellylldhan/Nutridata.git) : Données de nutritition
 - [**POEC_JAVA_2018**](https://github.com/ellylldhan/POEC_JAVA_2018) : POEC Java 2018 @ IMIE
 - [**pure-bash-bible**](https://github.com/Ellylldhan/pure-bash-bible.git) : Clone d'un repo existant - Bible de solutions ecrites en pur bash
-- [**SLF_Deviseur**](https://github.com/Ellylldhan/SLF_Deviseur.git) : Deviseur Technique
 - [**SelfSignal**](https://github.com/Ellylldhan/SelfSignal.git) : Code sources du projet Douchette
+- [**SLF_Deviseur**](https://github.com/Ellylldhan/SLF_Deviseur.git) : Deviseur Technique
 - [**udemy-MVC**](https://github.com/Ellylldhan/udemy-MVC.git) : Suivi video UDEMY sur PHP MVC
 - [**udemy_blog**](https://github.com/Ellylldhan/udemy_blog.git) : Exemple Udemy pour illustrer MVC en PHP
 - [**youtube-dl**](https://github.com/Ellylldhan/youtube-dl.git) : Scripts en vrac pour mes divers usages de youtube-dl.
