@@ -13,14 +13,9 @@ def str_trim(string) :
 	return string
 
 
-
-
-
 file = 'readme.txt'
-output = 'output.txt'
-#output = 'readme.txt'
-tmp = []
-to_be_sorted = dict()
+#output = 'output.txt'
+output = 'readme.txt'
 header = '# Liste des Repos disponibles\n\n'
 
 #data = [x.replace('\r\n', '').replace('\n', '') for x in open(file, 'r')]
@@ -47,12 +42,10 @@ for d in data :
 for key in dico.keys() :
 	dico[key][1] = max_size - dico[key][0] + 1
 
-
-
 with open(output, 'w') as fs:
 	fs.write(header)
 	for key in dico.keys():
-		offset = dico[key][1]
+		offset = dico[key][1] 
 		str2 = dico[key][2]
 		fs.write("%s%s.%s" % (key, offset * '.', str2))
 	fs.write('\n\n')
