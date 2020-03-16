@@ -1,6 +1,7 @@
 # ListeRepos
 Listes des repos dispo
 
+- ~~[**multiprint**](https://github.com/Ellylldhan/multiprint.git) : projet douchette~~ fait maintenant partie de [**SelfSignal**](https://github.com/Ellylldhan/SelfSignal.git) en tant que branche `multiprint`
 - [**bash-guide**](https://github.com/ellylldhan/bash-guide) : Clone d'un repo existant
 - [**bin-self**](https://github.com/ellylldhan/bin-self) : ~/bin pour SELF
 - [**bin-titan-debian**](https://github.com/ellylldhan/bin-titan-debian) : ~/bin pour TITAN-DEBIAN
@@ -20,13 +21,13 @@ Listes des repos dispo
 - [**MesOutils**](https://github.com/Ellylldhan/MesOutils.git) : Recueil de bidouilles utiles
 - [**Moutou_Java**](https://github.com/Ellylldhan/Moutou_Java.git) : Projet "Moutou" version Java
 - [**Moutou_Python**](https://github.com/Ellylldhan/Moutou_Python.git) : Projet "Moutou" version Python
-- [**multiprint**](https://github.com/Ellylldhan/multiprint.git) : projet douchette
 - [**MyCookbook**](https://github.com/Ellylldhan/MyCookbook.git) : Recipes in python, shell, batch
 - [**MyCookbook_Reloaded**](https://github.com/Ellylldhan/MyCookbook_Reloaded.git) : Recueil de bidouilles et de bouts de code qui me servent régulièrement.
 - [**myebooks**](https://github.com/Ellylldhan/myebooks.git) : API myebook PHP
 - [**Nutridata**](https://github.com/Ellylldhan/Nutridata.git) : Données de nutritition
 - [**POEC_JAVA_2018**](https://github.com/ellylldhan/POEC_JAVA_2018) : POEC Java 2018 @ IMIE
 - [**pure-bash-bible**](https://github.com/Ellylldhan/pure-bash-bible.git) : Clone d'un repo existant - Bible de solutions ecrites en pur bash
+- [**ReSelf**](https://github.com/Ellylldhan/SelfSignal_reloaded.git) : SelfSignal Reloaded - projet "Douchette" selon mes dernières avancées techniques. (03/2020)   
 - [**SelfSignal**](https://github.com/Ellylldhan/SelfSignal.git) : Code sources du projet Douchette
 - [**SLF_Deviseur**](https://github.com/Ellylldhan/SLF_Deviseur.git) : Deviseur Technique
 - [**udemy-MVC**](https://github.com/Ellylldhan/udemy-MVC.git) : Suivi video UDEMY sur PHP MVC
