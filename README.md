@@ -35,3 +35,8 @@ Listes des repos dispo
 - [**youtube-dl**](https://github.com/Ellylldhan/youtube-dl.git) : Scripts en vrac pour mes divers usages de youtube-dl.
 - [**ZPLConverter**](https://github.com/Ellylldhan/ZPLConverter.git) : Convertisseur image > ZPL
 - [**ZPLPrinterHelper**](https://github.com/Ellylldhan/ZPLPrinterHelper.git) : Lancer une impression d'image sur une imprimante ZPL
+- [**ENI-01-SQL-SERVER**](https://github.com/ellylldhan/ENI-01-SQL-SERVER.git) : Cours SQL Server @ ENI (2019)
+- [**ENI-02-PLSQL**](https://github.com/ellylldhan/ENI-02-PLSQL) : Cours PL/SQL @ ENI (2019)
+- [**ENI-03-JAVA**](https://github.com/ellylldhan/ENI-03-JAVA) : Cours JAVA @ ENI (2019)
+- [**ENI-04-JAVA-SE**](https://github.com/ellylldhan/ENI-04-JAVA-SE) : Cours JAVA SE @ ENI (2020)
+- [**ENI-05-JAVA-EE**](https://github.com/ellylldhan/ENI-05-JAVA-EE) : Cours JAVA EE @ ENI (2020)
