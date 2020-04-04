@@ -15,6 +15,7 @@ Listes des repos dispo
 - [**ENI-03-JAVA**](https://github.com/ellylldhan/ENI-03-JAVA) : Cours JAVA @ ENI (2019)
 - [**ENI-04-JAVA-SE**](https://github.com/ellylldhan/ENI-04-JAVA-SE) : Cours JAVA SE @ ENI (2020)
 - [**ENI-05-JAVA-EE**](https://github.com/ellylldhan/ENI-05-JAVA-EE) : Cours JAVA EE @ ENI (2020)
+- [**ENI-06-JAVA-PROJET**](https://github.com/Ellylldhan/ENI-06-JAVA-PROJET) : Projet JAVA EE @ ENI (2020)
 - [**ENI_2019_2021**](https://github.com/Ellylldhan/ENI_2019_2021.git) : Repo pour tous les travaux re: Alternance ENI 2019-2021
 - [**etiqchef**](https://github.com/Ellylldhan/etiqchef.git) : Multi etiquettes
 - [**etiqchef_v2**](https://github.com/Ellylldhan/etiqchef_v2.git) : Version 2020-02 : optimisation des couches
